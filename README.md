@@ -14,6 +14,7 @@ Outside of my work, I like to stream on Twitch & connect with the Roblox communi
 * Roblox Game Developer - 7+ years on the platform
 * Roblox Developer Forum Post Approval - 11 months volunteer experience
 * Roblox Developer Forum Community Editor - an honored editor on the Developer Forum
+* Knowledgeable & comfortable with Lua, Python, & Julia programming languages
 
 ## Accomplishments
 * [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) - My studio I founded to create experiences on Roblox
