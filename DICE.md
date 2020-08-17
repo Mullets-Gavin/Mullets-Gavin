@@ -14,6 +14,7 @@ Dice Software is all of my modules & open source code that I use in Mullet Mafia
 - [Dice Binders](https://github.com/Mullets-Gavin/DiceBinders)
 - [Dice Assign Sizes](https://github.com/Mullets-Gavin/DiceAssignSizes)
 - [Dice Sound](https://github.com/Mullets-Gavin/DiceSound)
+- [Dice Camera](https://github.com/Mullets-Gavin/DiceCamera)
 
 ## Resources
 - [Dice Ban](https://github.com/Mullets-Gavin/DiceBan)
