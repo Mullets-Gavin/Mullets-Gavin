@@ -1,14 +1,14 @@
 <div align="center">
 <h1>Gavin "Mullets" Rosenthal</h1>
 
-Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) | [Site](https://www.mulletmafia.dev/) | [Roblox Profile](https://www.roblox.com/users/46522586/profile)
+Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) | [Studio Site](https://www.mulletmafia.dev/) | [Roblox Profile](https://www.roblox.com/users/46522586/profile)
 </div>
 
 Hi there 👋! My name is Gavin, and I go by Mullets.
 
 ## Experience
 * Proficient in Lua, Python, & Julia programming languages
-* Knowldegable in Svelte & JavaScript
+* Knowledgeable in Svelte & JavaScript
 * Roblox Game Developer - 7+ years on the platform
 * Roblox Developer Forum Post Approval - 11 months volunteer experience
 * Roblox Developer Forum Community Editor - an honored editor on the Developer Forum
