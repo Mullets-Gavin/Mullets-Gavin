@@ -21,3 +21,5 @@ Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-D
 * LinkedIn - [Gavin Rosenthal](https://www.linkedin.com/in/gavin-mullets-rosenthal/)
 * Twitter - [@Mullets_Gavin](https://twitter.com/Mullets_Gavin)
 * Email - [gavin@mullets.xyz](mailto:gavin@mullets.xyz)
+
+![Gavin "Mullets" Rosenthal](https://raw.githubusercontent.com/Mullets-Gavin/Mullets-Gavin/master/MulletMafiaSignature.png)
