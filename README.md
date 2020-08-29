@@ -4,8 +4,6 @@
 Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) | [Studio Site](https://www.mulletmafia.dev/) | [Roblox Profile](https://www.roblox.com/users/46522586/profile)
 </div>
 
-Hi there 👋! My name is Gavin, and I go by Mullets.
-
 ## Experience
 * Proficient in Lua, Python, & Julia programming languages
 * Knowledgeable in Svelte & JavaScript
