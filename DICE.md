@@ -18,6 +18,7 @@ Dice Software is all of my modules & open source code that I use in Mullet Mafia
 - [Dice Gui](https://github.com/Mullets-Gavin/DiceGui)
 - [Dice Viewport](https://github.com/Mullets-Gavin/DiceViewport)
 - [Dice Manager](https://github.com/Mullets-Gavin/DiceManager)
+- [Dice Admin](https://github.com/Mullets-Gavin/DiceAdmin)
 
 ## Resources
 - [Dice Ban](https://github.com/Mullets-Gavin/DiceBan)
