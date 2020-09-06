@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Gavin "Mullets" Rosenthal</h1>
 
-Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) | [Studio Site](https://www.mulletmafia.dev/) | [Roblox Profile](https://www.roblox.com/users/46522586/profile)
+Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-Dev#!/about) | [Studio Site](https://www.mulletmafia.dev/) | [Roblox Profile](https://devforum.roblox.com/u/mullets_gavin/summary)
 </div>
 
 ## Experience
