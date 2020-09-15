@@ -5,6 +5,7 @@ Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-D
 </div>
 
 ## Experience
+* 2020 Fall Accelerator Intern @ Roblox
 * Proficient in Lua, Python, & Julia programming languages
 * Knowledgeable in Svelte & JavaScript
 * Roblox Game Developer - 7+ years on the platform
