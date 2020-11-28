@@ -14,10 +14,8 @@ Owner of [Mullet Mafia Dev](https://www.roblox.com/groups/5018486/Mullet-Mafia-D
 
 ## Accomplishments
 * [Mullet Mafia Dev](https://github.com/Mullets-Gavin/Mullet-Mafia/blob/master/README.md) - My studio I founded to create experiences on Roblox
-* [Captive](https://www.roblox.com/games/3388553819/Captive) - 20,000,000+ plays, on average 500+ concurrent players daily
-* [Red Riptide](https://www.roblox.com/groups/5013782/Red-Riptide) - co-founded, holds my game Captive & has over 200,000+ members
-* [Dice Software](https://github.com/Mullets-Gavin/Mullets-Gavin/blob/master/DICE.md) - open source modules here to power mine and others Roblox games
-* [Playing Cards](https://github.com/Mullets-Gavin/PlayingCards) - a custom lua module loader designed to lazy load modules in roblox
+* [Captive](https://www.roblox.com/games/3388553819/Captive) - 26,000,000+ plays, on average 250+ concurrent players daily
+* [Red Riptide](https://www.roblox.com/groups/5013782/Red-Riptide) - co-founded, holds my game Captive & has over 230,000+ members
 
 ## Contact
 * LinkedIn - [Gavin Rosenthal](https://www.linkedin.com/in/gavin-mullets-rosenthal/)
